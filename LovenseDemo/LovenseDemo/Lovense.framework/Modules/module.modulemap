@@ -1,6 +1,0 @@
-framework module Lovense {
-  umbrella header "Lovense.h"
-
-  export *
-  module * { export * }
-}
