@@ -22,7 +22,7 @@ INSTALLATION
 
 - Go to https://www.lovense.com/user/developer/info and get your developer token
 
-- Download and extract the Lovense SDK at https://developer.lovense.com/lovense.framework.zip
+- Download and extract the Lovense SDK at https://developer.lovense.com/lovense-ios-sdk-1.0.6.zip
 
 - Copy the extracted `Lovense.framework` to your project
 
