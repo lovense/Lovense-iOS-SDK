@@ -10,7 +10,7 @@ TRY IT OUT
 In order to be able to use the API you must create a free account on the Lovense Official website in order to get your token
 1. Create a new account at https://www.lovense.com/sextoys/developer/join/.
 2. Go to https://www.lovense.com/user/developer/info and get your developer token.
-3. Start coding! Visit https://developer.lovense.com/lovense-ios-sdk-demo.zip to download the demo app.
+3. Start coding! Visit https://developer.lovense.com/lovense-ios-sdk-demo-1.0.6.zip to download the demo app.
 4. Check out https://developer.lovense.com/#ios-sdk for a list of commands and callbacks.
 5. You can also download the demo app from this repo.
 
